@@ -1,1 +1,3 @@
 test
+
+11/28/14 5:43:51.886 AM GitHub[34302]: [34302] (v192) __36-[GHGitConnection loadConfiguration]_block_invoke_2 [Line 504] Error loading configuration: NSError { domain: GHRepositoryErrorDomain, code: 268, description: "Missing repository", recoverySuggestion: "Could not load repository data because the repository has moved on disk.", underlying error: NSError { domain: GTGitErrorDomain, code: -3, description: "Failed to open repository at URL file:///Users/Adam/Repos/.", underlying error: NSError { domain: GTGitErrorDomain, code: -3, description: "Could not find repository from '/Users/Adam/Repos'" } } }
